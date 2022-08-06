@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "936760429388",
+    "project_id": "kaam-dhaam-acbf8",
+    "storage_bucket": "kaam-dhaam-acbf8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:936760429388:android:69b0fba127d323f5ee5de9",
+        "android_client_info": {
+          "package_name": "co.kicked.kaam_dhaam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "936760429388-jo1q6dg7pqdgihbjp5qp570rjua64uon.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "co.kicked.kaam_dhaam",
+            "certificate_hash": "9e8bd2a97c60f5c59908563d177031e53eb1a6cb"
+          }
+        },
+        {
+          "client_id": "936760429388-ukp103sv81lq31imjn2s6ntiffil2di9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRJfSaNqGGdIkyTudRi0oN8Wt9FywuEj4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "936760429388-ukp103sv81lq31imjn2s6ntiffil2di9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
